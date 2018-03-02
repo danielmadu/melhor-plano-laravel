@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Broadband1",
+    "type": "bb",
+    "price": 40,
+    "extras": [
+      {
+        "productId": 5,
+        "title": "Landline",
+        "cost": -40
+      },
+      {
+        "productId": 6,
+        "title": "AddonBB",
+        "cost": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Broadband2",
+    "type": "bb",
+    "price": 60,
+    "extras": [
+      {
+        "productId": 3,
+        "title": "TV1",
+        "cost": -10
+      },
+      {
+        "productId": 5,
+        "title": "Landline",
+        "cost": -40
+      },
+      {
+        "productId": 4,
+        "title": "TV2",
+        "cost": -20
+      },
+      {
+        "productId": 6,
+        "title": "AddonBB",
+        "cost": -10
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "TV1",
+    "type": "tv",
+    "price": 50,
+    "extras": [
+      {
+        "productId": 7,
+        "title": "AddonTV",
+        "cost": 35
+      },
+      {
+        "productId": 5,
+        "title": "Landline",
+        "cost": -10
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "TV2",
+    "type": "tv",
+    "price": 120,
+    "extras": [
+      {
+        "productId": 5,
+        "title": "Landline",
+        "cost": -30
+      },
+      {
+        "productId": 7,
+        "title": "AddonTV",
+        "cost": 15
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Landline",
+    "type": "ll",
+    "price": 35
+  },
+  {
+    "id": 6,
+    "title": "AddonBB",
+    "type": "addon",
+    "price": 10
+  },
+  {
+    "id": 7,
+    "title": "AddonTV",
+    "type": "addon",
+    "price": 0
+  }
+]
